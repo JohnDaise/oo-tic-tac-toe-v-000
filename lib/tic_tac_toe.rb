@@ -28,6 +28,6 @@ class TicTacToe
   end
 
   def move(index, value)
-    board[index]
+    @board 
   end
 end
